@@ -21,8 +21,9 @@ class Main(QDialog):
                 tag_group_count.append(idx)
             if len(tag_group_count) == 2:
                 break
-        tag_count = tag_group_count[1]-tag_group_count[0]-1
-        QMessageBox.information(self, "알림", str(tag_count))
+        tag_count = tag_group_count[1]-tag_group_count[0]-1 # 19 나옴.
+
+        taggs = [[] for _ in range(0, tag_count)]
 
         analyzer = []
         for country in root.iter("tag"):  # 우선 반복문을 통해 tag의 요소들을 '순서대로' 배열에 넣자.

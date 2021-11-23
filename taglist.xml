@@ -10,12 +10,42 @@
             <normaloperation>1630AT155-NO</normaloperation>
             <inmaintenance>1630AT155-MO</inmaintenance>
             <maintenancerequest>1630AT155-MR</maintenancerequest>
+            <maintenancepermit>1630AT155-RM</maintenancepermit>
+            <inbreakdown>1630AT155-BD</inbreakdown>
+            <invalidation>1630AT155-VO</invalidation>
+            <startvalidation>1630AT155-SV</startvalidation>
+            <validationrequest>1630AT155-VR</validationrequest>
+            <validationpermit>1630AT155-RV</validationpermit>
+            <validationcomeread>1630AT155-VCR</validationcomeread>
+            <dcsstartvalidation>1630AT155-DSV</dcsstartvalidation>
+            <calibration>1630AT155-CB</calibration>
+            <analyzerfault>1630AT155-XF</analyzerfault>
+            <flowlowalarm>1630AT155-FA</flowlowalarm>
+            <limsbutton>1630AT155-LB</limsbutton>
+            <limsvalue>1630AT155-LV</limsvalue>
+            <semi_auto>1630AT155-SA</semi_auto>
+            <valvetag>1630AT155</valvetag>
         </tag>
         <tag>
             <analyzer>251-AH-002</analyzer>
             <normaloperation>1630AT255-NO</normaloperation>
             <inmaintenance>1630AT255-MO</inmaintenance>
             <maintenancerequest>1630AT255-MR</maintenancerequest>
+            <maintenancepermit>1630AT255-RM</maintenancepermit>
+            <inbreakdown>1630AT255-BD</inbreakdown>
+            <invalidation>1630AT255-VO</invalidation>
+            <startvalidation>1630AT255-SV</startvalidation>
+            <validationrequest>1630AT255-VR</validationrequest>
+            <validationpermit>1630AT255-RV</validationpermit>
+            <validationcomeread>1630AT255-VCR</validationcomeread>
+            <dcsstartvalidation>1630AT255-DSV</dcsstartvalidation>
+            <calibration>1630AT255-CB</calibration>
+            <analyzerfault>1630AT255-XF</analyzerfault>
+            <flowlowalarm>1630AT255-FA</flowlowalarm>
+            <limsbutton>1630AT255-LB</limsbutton>
+            <limsvalue>1630AT255-LV</limsvalue>
+            <semi_auto>1630AT255-SA</semi_auto>
+            <valvetag>1630AT255</valvetag>
         </tag>
     </tags>
 </opctag>
